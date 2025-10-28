@@ -1,0 +1,87 @@
+/* Custom Fonts & Colors */
+body {
+  font-family: 'Trebuchet MS', sans-serif;
+  background-color: #f7fafc;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header & Navigation */
+header {
+  background-color: #8fbfb5;
+  color: black;
+  text-align: center;
+  padding: 20px;
+}
+
+nav a {
+  color: black;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Main Content */
+main {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+  line-height: 1.6;
+}
+
+h1 {
+  font-size: 2.2em;
+}
+
+h2 {
+  color: black;
+  font-size: 1.8em;
+  margin-top: 30px;
+}
+
+h3 {
+  color: black;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+/* Images */
+.main-img, .sub-img {
+  width: 100%;
+  max-width: 500px;
+  display: block;
+  margin: 20px auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+/* Lists */
+ul {
+  background-color: #c0d0e8;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+li {
+  margin: 8px 0;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  background-color: #bba8d2;
+  color: black;
+  padding: 15px 0;
+  margin-top: 40px;
+}
+
+footer a {
+  color: black;
+}
