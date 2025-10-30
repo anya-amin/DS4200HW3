@@ -1,0 +1,14 @@
+Anya Amin Website - DS4200 
+Link to Website: https://anya-amin.github.io/DS4200HW3/
+
+I customized my website using a CSS file (style.css) that applies consistent fonts, colors, and layout styling across all pages.
+In terms of all the customizations I have done to the website, I first used a custom font called "Trebuchet MS" as the main font. 
+This was applied to all of fonts throughout the entire website. Moreover, I used a pastel palette for the website. The header on 
+both pages are a light teal, while the footer is a lavender color. The page background is a white color. And the lists have a 
+light blue background color. Putting all of these colors together, it created an aesthetically colored website. In terms of the 
+image styling, I wanted to keep all of the images consistent. They all have rounded corners and drop shadows on each. In the header, 
+when the user selects the tab, it will be underlined to indicate that you are about to select it. In terms of padding, layout and 
+adjustments, all the decisions made for this, were all to make the readability of the website easier. The large chunk of texts were 
+all centered, with padding and margins that would make the text fit right on the page. The lists are all left aligned with bullets 
+are margins that would allow them to fit inside of the box. Together, these design choices make the website feel cohesive, friendly, 
+and easy to read.
